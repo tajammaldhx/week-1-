@@ -147,5 +147,13 @@ function convertToJson(){
 }
 
 
-
+displaystudents();
+addStudent (8 , "Akbar", 65);
+delstudent(4);
+updatemarks(6 , 85);
+findTopper();
+searchStd("umar");
+countpass();
+countfail();
+countstd();
 convertToJson();
